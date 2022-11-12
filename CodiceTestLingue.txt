@@ -1,0 +1,10 @@
+private void Test() {
+     for(int i = 0; i < Language.Count; i++)
+     {
+          LanguageIn.SelectedIndex = i;
+          txtIn.Text = "c";
+          Invia();
+          if (txtOut.Text.Length < 10)
+               File.AppendAllText(@"..\..\test.txt", (i+1).ToString() + Environment.NewLine);
+     }
+}        

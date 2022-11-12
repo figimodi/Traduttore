@@ -1,0 +1,90 @@
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\bin\Debug\Traduttore.exe.config
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\bin\Debug\Traduttore.exe
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\bin\Debug\Traduttore.pdb
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore.csprojAssemblyReference.cache
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\MainWindow.g.cs
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\App.g.cs
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore_MarkupCompile.cache
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore_MarkupCompile.lref
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\MainWindow.baml
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore.g.resources
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore.Properties.Resources.resources
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore.csproj.GenerateResource.cache
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore.csproj.CoreCompileInputs.cache
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore.exe
+C:\Users\Filippo Greco\Desktop\Traduttore\Traduttore\obj\Debug\Traduttore.pdb
+C:\Users\Filippo Greco\Desktop\Traduttore\bin\Debug\Traduttore.exe.config
+C:\Users\Filippo Greco\Desktop\Traduttore\bin\Debug\Traduttore.exe
+C:\Users\Filippo Greco\Desktop\Traduttore\bin\Debug\Traduttore.pdb
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\MainWindow.g.cs
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\App.g.cs
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore_MarkupCompile.cache
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore_MarkupCompile.lref
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\MainWindow.baml
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore.g.resources
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore.Properties.Resources.resources
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore.csproj.GenerateResource.cache
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore.csproj.CoreCompileInputs.cache
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore.exe
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore.pdb
+C:\Users\Filippo Greco\Desktop\Traduttore\obj\Debug\Traduttore.csprojAssemblyReference.cache
+E:\Sistemi e reti\C#\Traduttore\bin\Debug\Traduttore.exe.config
+E:\Sistemi e reti\C#\Traduttore\bin\Debug\Traduttore.exe
+E:\Sistemi e reti\C#\Traduttore\bin\Debug\Traduttore.pdb
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore.csprojAssemblyReference.cache
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\MainWindow.g.cs
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\App.g.cs
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore_MarkupCompile.cache
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore_MarkupCompile.lref
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\MainWindow.baml
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore.g.resources
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore.Properties.Resources.resources
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore.csproj.GenerateResource.cache
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore.csproj.CoreCompileInputs.cache
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore.exe
+E:\Sistemi e reti\C#\Traduttore\obj\Debug\Traduttore.pdb
+F:\Sistemi e reti\C#\Traduttore18-19\bin\Debug\Traduttore.exe.config
+F:\Sistemi e reti\C#\Traduttore18-19\bin\Debug\Traduttore.exe
+F:\Sistemi e reti\C#\Traduttore18-19\bin\Debug\Traduttore.pdb
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.csprojAssemblyReference.cache
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\MainWindow.g.cs
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\App.g.cs
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore_MarkupCompile.cache
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore_MarkupCompile.lref
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\MainWindow.baml
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.g.resources
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.Properties.Resources.resources
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.csproj.GenerateResource.cache
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.csproj.CoreCompileInputs.cache
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.exe
+F:\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.pdb
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\bin\Debug\Traduttore.exe.config
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\bin\Debug\Traduttore.exe
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\bin\Debug\Traduttore.pdb
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.csprojAssemblyReference.cache
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\MainWindow.g.cs
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\App.g.cs
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore_MarkupCompile.cache
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore_MarkupCompile.lref
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\MainWindow.baml
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.g.resources
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.Properties.Resources.resources
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.csproj.GenerateResource.cache
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.csproj.CoreCompileInputs.cache
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.exe
+E:\Filippo Greco\Documents\BackUp\Sistemi e reti\C#\Traduttore18-19\obj\Debug\Traduttore.pdb
+E:\Filippo\Documents\Develope\Traduttore18-19\bin\Debug\Traduttore.exe.config
+E:\Filippo\Documents\Develope\Traduttore18-19\bin\Debug\Traduttore.exe
+E:\Filippo\Documents\Develope\Traduttore18-19\bin\Debug\Traduttore.pdb
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore.csprojAssemblyReference.cache
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\MainWindow.g.cs
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\App.g.cs
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore_MarkupCompile.cache
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore_MarkupCompile.lref
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\MainWindow.baml
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore.g.resources
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore.Properties.Resources.resources
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore.csproj.GenerateResource.cache
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore.csproj.CoreCompileInputs.cache
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore.exe
+E:\Filippo\Documents\Develope\Traduttore18-19\obj\Debug\Traduttore.pdb
